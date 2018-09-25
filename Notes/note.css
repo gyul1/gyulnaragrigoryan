@@ -1,0 +1,73 @@
+.topic
+{
+    font-family: 'Handlee', cursive;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+    background-color: black;
+}
+
+.topic h1
+{
+    font-size: 60px;
+    letter-spacing: 5px;
+    color: white;
+}
+
+.container
+{
+    padding-top: 4%;
+    padding-bottom: 2%;
+    text-align: center;
+}
+
+.description
+{
+    background-color: #ddd;
+    text-align: left;
+    padding: 5% 5% 5% 5%;
+}
+
+topnav {
+    font-family: 'Handlee', cursive;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    overflow: hidden;
+    background-color: white;
+    text-align: center;
+    
+}
+
+.topnav a {
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    border-style: solid;
+  
+
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black; 
+}
+
+.container p img
+{
+    width: 800px;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
